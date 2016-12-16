@@ -7,7 +7,8 @@ description: The Obama Legacy Project is a campaign led by Presente.org in partn
 #baseurl:
 
 baseurl: https://presente.github.io/olegacy/
-url: http://obamalegacyproject.org # the base hostname & protocol for your site
+url: https://presente.github.io/olegacy/
+# the base hostname & protocol for your site
 
 author:
 street_address: 1330 Broadway, Suite 300
