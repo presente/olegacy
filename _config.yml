@@ -4,10 +4,9 @@ subtitle: by Presente Action
 email: info@presente.org
 description: The Obama Legacy Project is a campaign led by Presente.org in partnership with grassroots and human rights organizations and their allies nationwide who want to raise awareness about President Obama’s legacy on immigration.
 
-#baseurl:
-
-baseurl: https://presente.github.io/olegacy
+# baseurl:
 url: http://obamalegacy.com
+baseurl: https://presente.github.io/olegacy
 
 # the base hostname & protocol for your site
 
