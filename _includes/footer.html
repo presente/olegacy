@@ -37,10 +37,11 @@
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
-					<span>{{ site.street_address }}<br />
-					{{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
-					{{ site.country }}</span>
+					<h3>Follow us</h3>
+					<!--span-->{% comment %}
+					{{ site.street_address }}{% endcomment %}<!--br /-->
+					{% comment %}{{ site.city }}, {{ site.state }} {{ site.zip_code }}{% endcomment %}<!--br /-->
+					{% comment %}{{ site.country }}{% endcomment %}<!--/span-->
 				</div>
 			</section>
 		</section>
